@@ -1,7 +1,7 @@
 .container {
     width: 50%;
     height: auto;
-    background-image: url("../../images/weather.jpg");
+    background-image: url("images/weather.jpg");
     background-repeat: no-repeat;
     display: block;
     margin: 0px auto;
@@ -78,11 +78,13 @@ h4 {
     left: -12px;
     text-decoration: none;
 }
-#current{
-    background-color:#FFD747 ;
+
+#current {
+    background-color: #FFD747;
     color: black;
 }
-#current:hover{
-    background-color:transparent;
-        color: #FFD747;
+
+#current:hover {
+    background-color: transparent;
+    color: #FFD747;
 }
